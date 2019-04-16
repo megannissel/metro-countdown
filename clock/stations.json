@@ -1,0 +1,477 @@
+[
+  {
+    "code": "A01", 
+    "line": "RD", 
+    "name": "Metro Center"
+  }, 
+  {
+    "code": "A02", 
+    "line": "RD", 
+    "name": "Farragut North"
+  }, 
+  {
+    "code": "A03", 
+    "line": "RD", 
+    "name": "Dupont Circle"
+  }, 
+  {
+    "code": "A04", 
+    "line": "RD", 
+    "name": "Woodley Park-Zoo/Adams Morgan"
+  }, 
+  {
+    "code": "A05", 
+    "line": "RD", 
+    "name": "Cleveland Park"
+  }, 
+  {
+    "code": "A06", 
+    "line": "RD", 
+    "name": "Van Ness-UDC"
+  }, 
+  {
+    "code": "A07", 
+    "line": "RD", 
+    "name": "Tenleytown-AU"
+  }, 
+  {
+    "code": "A08", 
+    "line": "RD", 
+    "name": "Friendship Heights"
+  }, 
+  {
+    "code": "A09", 
+    "line": "RD", 
+    "name": "Bethesda"
+  }, 
+  {
+    "code": "A10", 
+    "line": "RD", 
+    "name": "Medical Center"
+  }, 
+  {
+    "code": "A11", 
+    "line": "RD", 
+    "name": "Grosvenor-Strathmore"
+  }, 
+  {
+    "code": "A12", 
+    "line": "RD", 
+    "name": "White Flint"
+  }, 
+  {
+    "code": "A13", 
+    "line": "RD", 
+    "name": "Twinbrook"
+  }, 
+  {
+    "code": "A14", 
+    "line": "RD", 
+    "name": "Rockville"
+  }, 
+  {
+    "code": "A15", 
+    "line": "RD", 
+    "name": "Shady Grove"
+  }, 
+  {
+    "code": "B01", 
+    "line": "RD", 
+    "name": "Gallery Pl-Chinatown"
+  }, 
+  {
+    "code": "B02", 
+    "line": "RD", 
+    "name": "Judiciary Square"
+  }, 
+  {
+    "code": "B03", 
+    "line": "RD", 
+    "name": "Union Station"
+  }, 
+  {
+    "code": "B04", 
+    "line": "RD", 
+    "name": "Rhode Island Ave-Brentwood"
+  }, 
+  {
+    "code": "B05", 
+    "line": "RD", 
+    "name": "Brookland-CUA"
+  }, 
+  {
+    "code": "B06", 
+    "line": "RD", 
+    "name": "Fort Totten"
+  }, 
+  {
+    "code": "B07", 
+    "line": "RD", 
+    "name": "Takoma"
+  }, 
+  {
+    "code": "B08", 
+    "line": "RD", 
+    "name": "Silver Spring"
+  }, 
+  {
+    "code": "B09", 
+    "line": "RD", 
+    "name": "Forest Glen"
+  }, 
+  {
+    "code": "B10", 
+    "line": "RD", 
+    "name": "Wheaton"
+  }, 
+  {
+    "code": "B11", 
+    "line": "RD", 
+    "name": "Glenmont"
+  }, 
+  {
+    "code": "B35", 
+    "line": "RD", 
+    "name": "NoMa-Gallaudet U"
+  }, 
+  {
+    "code": "C01", 
+    "line": "BL", 
+    "name": "Metro Center"
+  }, 
+  {
+    "code": "C02", 
+    "line": "BL", 
+    "name": "McPherson Square"
+  }, 
+  {
+    "code": "C03", 
+    "line": "BL", 
+    "name": "Farragut West"
+  }, 
+  {
+    "code": "C04", 
+    "line": "BL", 
+    "name": "Foggy Bottom-GWU"
+  }, 
+  {
+    "code": "C05", 
+    "line": "BL", 
+    "name": "Rosslyn"
+  }, 
+  {
+    "code": "C06", 
+    "line": "BL", 
+    "name": "Arlington Cemetery"
+  }, 
+  {
+    "code": "C07", 
+    "line": "BL", 
+    "name": "Pentagon"
+  }, 
+  {
+    "code": "C08", 
+    "line": "BL", 
+    "name": "Pentagon City"
+  }, 
+  {
+    "code": "C09", 
+    "line": "BL", 
+    "name": "Crystal City"
+  }, 
+  {
+    "code": "C10", 
+    "line": "BL", 
+    "name": "Ronald Reagan Washington National Airport"
+  }, 
+  {
+    "code": "C12", 
+    "line": "BL", 
+    "name": "Braddock Road"
+  }, 
+  {
+    "code": "C13", 
+    "line": "BL", 
+    "name": "King St-Old Town"
+  }, 
+  {
+    "code": "C14", 
+    "line": "YL", 
+    "name": "Eisenhower Avenue"
+  }, 
+  {
+    "code": "C15", 
+    "line": "YL", 
+    "name": "Huntington"
+  }, 
+  {
+    "code": "D01", 
+    "line": "BL", 
+    "name": "Federal Triangle"
+  }, 
+  {
+    "code": "D02", 
+    "line": "BL", 
+    "name": "Smithsonian"
+  }, 
+  {
+    "code": "D03", 
+    "line": "BL", 
+    "name": "L'Enfant Plaza"
+  }, 
+  {
+    "code": "D04", 
+    "line": "BL", 
+    "name": "Federal Center SW"
+  }, 
+  {
+    "code": "D05", 
+    "line": "BL", 
+    "name": "Capitol South"
+  }, 
+  {
+    "code": "D06", 
+    "line": "BL", 
+    "name": "Eastern Market"
+  }, 
+  {
+    "code": "D07", 
+    "line": "BL", 
+    "name": "Potomac Ave"
+  }, 
+  {
+    "code": "D08", 
+    "line": "BL", 
+    "name": "Stadium-Armory"
+  }, 
+  {
+    "code": "D09", 
+    "line": "OR", 
+    "name": "Minnesota Ave"
+  }, 
+  {
+    "code": "D10", 
+    "line": "OR", 
+    "name": "Deanwood"
+  }, 
+  {
+    "code": "D11", 
+    "line": "OR", 
+    "name": "Cheverly"
+  }, 
+  {
+    "code": "D12", 
+    "line": "OR", 
+    "name": "Landover"
+  }, 
+  {
+    "code": "D13", 
+    "line": "OR", 
+    "name": "New Carrollton"
+  }, 
+  {
+    "code": "E01", 
+    "line": "GR", 
+    "name": "Mt Vernon Sq 7th St-Convention Center"
+  }, 
+  {
+    "code": "E02", 
+    "line": "GR", 
+    "name": "Shaw-Howard U"
+  }, 
+  {
+    "code": "E03", 
+    "line": "GR", 
+    "name": "U Street/African-Amer Civil War Memorial/Cardozo"
+  }, 
+  {
+    "code": "E04", 
+    "line": "GR", 
+    "name": "Columbia Heights"
+  }, 
+  {
+    "code": "E05", 
+    "line": "GR", 
+    "name": "Georgia Ave-Petworth"
+  }, 
+  {
+    "code": "E06", 
+    "line": "GR", 
+    "name": "Fort Totten"
+  }, 
+  {
+    "code": "E07", 
+    "line": "GR", 
+    "name": "West Hyattsville"
+  }, 
+  {
+    "code": "E08", 
+    "line": "GR", 
+    "name": "Prince George's Plaza"
+  }, 
+  {
+    "code": "E09", 
+    "line": "GR", 
+    "name": "College Park-U of Md"
+  }, 
+  {
+    "code": "E10", 
+    "line": "GR", 
+    "name": "Greenbelt"
+  }, 
+  {
+    "code": "F01", 
+    "line": "GR", 
+    "name": "Gallery Pl-Chinatown"
+  }, 
+  {
+    "code": "F02", 
+    "line": "GR", 
+    "name": "Archives-Navy Memorial-Penn Quarter"
+  }, 
+  {
+    "code": "F03", 
+    "line": "GR", 
+    "name": "L'Enfant Plaza"
+  }, 
+  {
+    "code": "F04", 
+    "line": "GR", 
+    "name": "Waterfront"
+  }, 
+  {
+    "code": "F05", 
+    "line": "GR", 
+    "name": "Navy Yard-Ballpark"
+  }, 
+  {
+    "code": "F06", 
+    "line": "GR", 
+    "name": "Anacostia"
+  }, 
+  {
+    "code": "F07", 
+    "line": "GR", 
+    "name": "Congress Heights"
+  }, 
+  {
+    "code": "F08", 
+    "line": "GR", 
+    "name": "Southern Avenue"
+  }, 
+  {
+    "code": "F09", 
+    "line": "GR", 
+    "name": "Naylor Road"
+  }, 
+  {
+    "code": "F10", 
+    "line": "GR", 
+    "name": "Suitland"
+  }, 
+  {
+    "code": "F11", 
+    "line": "GR", 
+    "name": "Branch Ave"
+  }, 
+  {
+    "code": "G01", 
+    "line": "BL", 
+    "name": "Benning Road"
+  }, 
+  {
+    "code": "G02", 
+    "line": "BL", 
+    "name": "Capitol Heights"
+  }, 
+  {
+    "code": "G03", 
+    "line": "BL", 
+    "name": "Addison Road-Seat Pleasant"
+  }, 
+  {
+    "code": "G04", 
+    "line": "BL", 
+    "name": "Morgan Boulevard"
+  }, 
+  {
+    "code": "G05", 
+    "line": "BL", 
+    "name": "Largo Town Center"
+  }, 
+  {
+    "code": "J02", 
+    "line": "BL", 
+    "name": "Van Dorn Street"
+  }, 
+  {
+    "code": "J03", 
+    "line": "BL", 
+    "name": "Franconia-Springfield"
+  }, 
+  {
+    "code": "K01", 
+    "line": "OR", 
+    "name": "Court House"
+  }, 
+  {
+    "code": "K02", 
+    "line": "OR", 
+    "name": "Clarendon"
+  }, 
+  {
+    "code": "K03", 
+    "line": "OR", 
+    "name": "Virginia Square-GMU"
+  }, 
+  {
+    "code": "K04", 
+    "line": "OR", 
+    "name": "Ballston-MU"
+  }, 
+  {
+    "code": "K05", 
+    "line": "OR", 
+    "name": "East Falls Church"
+  }, 
+  {
+    "code": "K06", 
+    "line": "OR", 
+    "name": "West Falls Church-VT/UVA"
+  }, 
+  {
+    "code": "K07", 
+    "line": "OR", 
+    "name": "Dunn Loring-Merrifield"
+  }, 
+  {
+    "code": "K08", 
+    "line": "OR", 
+    "name": "Vienna/Fairfax-GMU"
+  }, 
+  {
+    "code": "N01", 
+    "line": "SV", 
+    "name": "McLean"
+  }, 
+  {
+    "code": "N02", 
+    "line": "SV", 
+    "name": "Tysons Corner"
+  }, 
+  {
+    "code": "N03", 
+    "line": "SV", 
+    "name": "Greensboro"
+  }, 
+  {
+    "code": "N04", 
+    "line": "SV", 
+    "name": "Spring Hill"
+  }, 
+  {
+    "code": "N06", 
+    "line": "SV", 
+    "name": "Wiehle-Reston East"
+  }
+]
