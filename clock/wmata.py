@@ -1,6 +1,7 @@
 import httplib
 import json
 
+# If you want to run this at home, you will need to generate a wmata API key (https://developer.wmata.com/)
 from secrets import KEY_PRIMARY
 
 # Base api url: https://api.wmata.com/StationPrediction.svc/json/GetPrediction/{StationCodes}
