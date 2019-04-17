@@ -50,7 +50,7 @@ class RunText(BaseLED):
             'RD': (255, 0, 0),
             'BL': (0, 255, 255),
             'OR': (255, 140, 0),
-            'SV': (255, 0, 255)
+            'SV': (192, 192, 192)
         }
         if line in color_map:
             r, g, b = color_map[line]
